@@ -57,6 +57,9 @@
 #                          (press Enter to use a subfolder called "output"
 #                           inside your input folder)
 #
+#     STEP 6 — Install 1.1.1.1  
+#       You need it so that google translate wont block you IP
+#
 # =============================================================================
 #  INPUT FILE FORMATS
 # =============================================================================
